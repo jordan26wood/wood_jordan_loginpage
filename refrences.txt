@@ -1,0 +1,7 @@
+https://www.w3schools.com/php/func_date_default_timezone_get.asp
+
+https://www.w3schools.com/js/tryit.asp?filename=tryjs_elseif
+
+https://stackoverflow.com/questions/15290620/displaying-last-login-time-in-php
+
+https://forums.phpfreaks.com/topic/288929-php-how-to-block-user-after-3-fail-of-submiting-wrong-information/

@@ -1,0 +1,111 @@
+body
+{
+  background-image: url(../images/patterns.svg);
+  background-position: center;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700');
+
+form{
+  margin-top: 180px;
+}
+
+#login h1
+{
+  font-size: 85px;
+  font-family:  'Source Sans Pro', sans-serif;
+  font-weight: lighter;
+  text-align: center;
+}
+
+#login h2
+{
+  font-size: 35px;
+  margin-top: -40px;
+  font-family:  'Source Sans Pro', sans-serif;
+  font-weight: lighter;
+  text-align: center;
+}
+
+#login [type=text]
+{
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 1px solid #5a5050;
+    border-radius: 1px;
+    letter-spacing: 1px;
+    margin: 0 auto;
+    display: block;
+    font-size: 20px;
+}
+
+#login [type=password]
+{
+  padding-left: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border: 1px solid #5a5050;
+  border-radius: 1px;
+  letter-spacing: 1px;
+  margin: 0 auto;
+  display: block;
+  font-size: 20px;
+}
+
+#login label
+{
+  font-family:  'Source Sans Pro', sans-serif;
+  font-weight: lighter;
+  text-align: center;
+    font-size: 35px;
+    display: block;
+}
+
+.button
+{
+  background-color: #fff;
+  margin: 0 auto;
+  display: block;
+  color: black;
+  padding: 8px 37px;
+  text-align: center;
+  font-size: 20px;
+  cursor: pointer;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 400;
+  letter-spacing: 1px;
+  border: 1px solid black;
+}
+
+.button:hover
+{
+  -webkit-transition-duration: 0.5s; /* Safari */
+  transition-duration: 0.5s;
+  background-color: Black;
+color: white;
+}
+
+.welcome h1
+{
+  font-size: 85px;
+  font-family:'Source Sans Pro', sans-serif;
+  font-weight: lighter;
+  text-align: center;
+}
+
+.welcome h2
+{
+  font-size: 45px;
+  font-family:'Source Sans Pro', sans-serif;
+  font-weight: lighter;
+  text-align: center;
+}
+
+.welcome p
+{
+  font-size: 25px;
+  font-family:'Source Sans Pro', sans-serif;
+  font-weight: lighter;
+  text-align: center;
+}

@@ -1,0 +1,13 @@
+#login [type=text]
+{
+    border: 1px solid #5a5050;
+    border-radius: 1px;
+    letter-spacing: 1px;
+}
+
+#login [type=password]
+{
+    border: 1px solid #5a5050;
+    border-radius: 1px;
+    letter-spacing: 1px;
+}
